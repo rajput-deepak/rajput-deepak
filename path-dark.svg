@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img" aria-label="Experience: Cybersecurity Engineer at CIBC 2022 to 2026, Cyber Security Associate at ITC India 2021 to 2022, Full Stack Web Developer at A2IT Technologies 2020 to 2021">
+<style>
+.up{animation:up 1s cubic-bezier(.16,1,.3,1) both}
+.d1{animation-delay:.1s}.d2{animation-delay:.25s}.d3{animation-delay:.4s}.d4{animation-delay:.55s}.d5{animation-delay:.7s}.d6{animation-delay:.85s}.d7{animation-delay:1s}.d8{animation-delay:1.15s}
+@keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:translateY(0)}}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out infinite}
+@keyframes ping{0%{opacity:.6;transform:scale(1)}100%{opacity:0;transform:scale(3)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.draw{stroke-dasharray:520;stroke-dashoffset:520;animation:draw 2.2s cubic-bezier(.65,0,.35,1) .2s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.draw{stroke-dashoffset:0}}</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2997ff"/><stop offset="1" stop-color="#4fe0d2"/></linearGradient><linearGradient id="v" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2997ff"/><stop offset="1" stop-color="#4fe0d2"/></linearGradient></defs>
+<line x1="34" y1="60" x2="34" y2="540" stroke="#2a2a30" stroke-width="3" stroke-linecap="round"/>
+<line class="draw" x1="34" y1="60" x2="34" y2="540" stroke="url(#v)" stroke-width="3" stroke-linecap="round"/>
+<g class="up d2">
+  <circle class="ping" cx="34" cy="60" r="9" fill="#2997ff"/><circle cx="34" cy="60" r="9" fill="#2997ff" stroke="#2997ff" stroke-width="3"/>
+  <line x1="46" y1="60" x2="76" y2="60" stroke="#2a2a30" stroke-width="3"/>
+  <rect x="76" y="20" width="922" height="148" rx="24" fill="#141417" stroke="#2997ff" stroke-width="2"/>
+  <rect x="104" y="44" width="155" height="26" rx="13" fill="#1f1f24"/>
+  <text x="117" y="61" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#a1a1a8">07/2022 – 10/2026</text>
+  <text x="104" y="102" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f5f5f7">Cybersecurity Engineer</text>
+  <text x="104" y="126" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">CIBC · Toronto, ON</text>
+  <text x="400" y="78" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="url(#g)">The defender.</text>
+  <text x="400" y="112" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">Tier 2/3 incident response across enterprise banking and multi-cloud.</text>
+  <text x="400" y="135" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">Contained threats, tuned detections, kept the bank audit-ready.</text>
+</g><g class="up d4">
+  <circle cx="34" cy="232" r="9" fill="#000000" stroke="#2997ff" stroke-width="3"/>
+  <line x1="46" y1="232" x2="76" y2="232" stroke="#2a2a30" stroke-width="3"/>
+  <rect x="76" y="192" width="922" height="148" rx="24" fill="#141417" stroke="#2a2a30"/>
+  <rect x="104" y="216" width="132" height="26" rx="13" fill="#1f1f24"/>
+  <text x="117" y="233" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#a1a1a8">2021 – 05/2022</text>
+  <text x="104" y="274" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f5f5f7">Cyber Security Associate</text>
+  <text x="104" y="298" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">ITC India Pvt Ltd</text>
+  <text x="400" y="250" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#f5f5f7">The tester.</text>
+  <text x="400" y="284" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">VAPT on web apps, mobile apps, APIs and infrastructure (OWASP Top 10).</text>
+  <text x="400" y="307" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">Risk-rated reports with proof of concept, then re-tested every fix.</text>
+</g><g class="up d6">
+  <circle cx="34" cy="404" r="9" fill="#000000" stroke="#2997ff" stroke-width="3"/>
+  <line x1="46" y1="404" x2="76" y2="404" stroke="#2a2a30" stroke-width="3"/>
+  <rect x="76" y="364" width="922" height="148" rx="24" fill="#141417" stroke="#2a2a30"/>
+  <rect x="104" y="388" width="110" height="26" rx="13" fill="#1f1f24"/>
+  <text x="117" y="405" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#a1a1a8">2020 – 2021</text>
+  <text x="104" y="446" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#f5f5f7">Full Stack Web Developer</text>
+  <text x="104" y="470" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">A2IT Technologies</text>
+  <text x="400" y="422" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-1" fill="#f5f5f7">The builder.</text>
+  <text x="400" y="456" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">Built web applications end to end, front end to back end.</text>
+  <text x="400" y="479" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#a1a1a8">Why the websites I build today are secure from the first line.</text>
+</g>
+<circle cx="34" cy="545" r="5" fill="#a1a1a8"/>
+</svg>

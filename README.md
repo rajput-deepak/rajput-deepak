@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <img src="hero-light.svg" alt="Deepak Kumar, Cybersecurity Engineer. I built it. I broke it. Now I defend it." width="100%">
+</picture>
 
-- 🌱 I’m currently learning **Django framework**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rajput-deepak](https://github.com/rajput-deepak)
-
-- 💬 Ask me about **Python, Django Framework**
-
-- 📫 How to reach me **deepak.rajputm24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qjeKcvjNGpg7oTU5E1pajOMSC3dv6-vN/view?usp=sharing](https://drive.google.com/file/d/1qjeKcvjNGpg7oTU5E1pajOMSC3dv6-vN/view?usp=sharing)
-
-- ⚡ Fun fact **I am quick learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@deepak61898813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepak61898813" height="30" width="40" /></a>
-<a href="https://www.instagram.com/deepak.codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@deepak61898813" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dk-rajput"><img src="https://img.shields.io/badge/LinkedIn-dk--rajput-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dktechcyber@gmail.com"><img src="https://img.shields.io/badge/Email-dktechcyber%40gmail.com-1d1d1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open_to-Full--time_·_Remote_or_Hybrid-30d158?style=for-the-badge" alt="Open to full-time roles, remote or hybrid">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajput-deepak&show_icons=true&locale=en&layout=compact" alt="rajput-deepak" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="stats-dark.svg">
+  <img src="stats-light.svg" alt="6+ years in tech, 20% faster MTTR, 15% fewer false positives, 60 to 80 alerts investigated monthly" width="100%">
+</picture>
+
+## About me
+
+I started as a full stack web developer, moved into penetration testing, and spent the last four years in incident response at a major Canadian bank. I see every system from three sides: how it's built, how it gets attacked, and how to protect it.
+
+Based in Kitchener, ON, Canada.
+
+## Experience
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="path-dark.svg">
+  <img src="path-light.svg" alt="Cybersecurity Engineer at CIBC (07/2022 – 10/2026), Cyber Security Associate at ITC India Pvt Ltd (2021 – 05/2022), Full Stack Web Developer at A2IT Technologies (2020 – 2021)" width="100%">
+</picture>
+
+## Toolkit
+
+| Area | Tools |
+|---|---|
+| **SIEM & detection** | Microsoft Sentinel · Splunk · IBM QRadar · LogRhythm · KQL · SPL |
+| **EDR** | CrowdStrike Falcon · Microsoft Defender for Endpoint · SentinelOne |
+| **Offensive security** | VAPT · Web app pentesting · OWASP Top 10 · Network testing · API security |
+| **Cloud & identity** | Azure · Entra ID · AWS CloudTrail · GuardDuty · GCP & GKE |
+| **Email security** | SPF · DKIM · DMARC · Any.run · URLScan · VirusTotal |
+| **Vulnerability mgmt** | Qualys VMDR · CVSS · EPSS · CISA KEV |
+| **Automation** | Python · PowerShell · REST APIs · SOAR playbooks · GitHub Actions |
+| **Frameworks** | MITRE ATT&CK · NIST CSF · NIST SP 800-61 · ISO 27001 · PCI-DSS · SOC 2 · OSFI |
+
+## Certifications
+
+| | | |
+|:---:|:---:|:---:|
+| **CCSP** | **SC-200** | **AZ-500** |
+| Certified Cloud Security Professional | Security Operations Analyst Associate | Azure Security Engineer Associate |
+| ISC2 | Microsoft | Microsoft |
+
+## Need a website?
+
+I design, build and host websites for shops, salons, restaurants and small businesses across Canada and the US, with security set up from day one: HTTPS, hardening, backups and monitoring.
+
+**Reach me:** dktechcyber@gmail.com · [LinkedIn](https://www.linkedin.com/in/dk-rajput)
